@@ -1,6 +1,6 @@
-# Django Signals and Custom Classes in Python
+# Custom Classes in Python
 
-This project demonstrates the use of Django signals and custom Python classes.
+This project demonstrates the use of custom Python classes.
 
 ## Setup
 
